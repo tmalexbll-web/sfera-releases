@@ -2,7 +2,7 @@
 
 A client management and online booking program for beauty salons, spas, fitness clubs, massage parlors, and swimming pools. Supports multiple services in a single program.
 
-![Sfera Main Page](main.png)
+![Sfera Main Page](главная.png)
 
 ## Features
 
@@ -20,11 +20,11 @@ A client management and online booking program for beauty salons, spas, fitness 
 
 | Calendar | Employees |
 |---|---|
-| ![Calendar](calendar.png) | ![Employees](Employees.png) |
+| ![Calendar](календарь.png) | ![Employees](Сотрудники.png) |
 
 | Finance | Settings |
 |---|---|
-| ![Finance](finances.png) | ![Settings](2settings.png) |
+| ![Finance](финансы.png) | ![Settings](2settings.png) |
 
 ![First Launch of Sfera](1onboarding.png)
 
